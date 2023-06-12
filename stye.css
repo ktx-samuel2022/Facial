@@ -1,0 +1,17 @@
+body{
+    background-image:linear-gradient(lime, lightgreen, rgb(83, 180, 83),lime);
+}
+.lista_objs{
+    background-color: rgb(34, 139, 34);
+    color:rgb(14, 252, 244);
+    font-weight:bold;
+    padding: 20px;
+    border-radius:30px;
+    border: dashed 9px rgb(151, 255, 151);
+}
+#camera , #foto{
+    border: dotted 2px white;
+    width:400px;
+    height:300px;
+    margin: 10px;
+}
